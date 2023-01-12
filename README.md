@@ -57,5 +57,6 @@ References to similar systems are madgrades and RateMyProfessor. However, unlike
 3. Main Page (Logged in User)
   - Search window
   -  Course Info Page
-  -  Profile Info Page
+  - Profile Info Page
     - Change Password Page
+
