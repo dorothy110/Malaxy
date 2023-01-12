@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "username": "Elizabeth",
+    "major": "Astrophysics",
+    "password": "malaxy",
+    "savedCourse": [1196, 2358, 2368, 2380, 2388, 2395, 7015, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 1,
+    "username": "Sami",
+    "major": "Computer Science",
+    "password": "rasberry",
+    "savedCourse": [1184, 1196, 2358, 2368, 2380, 2395, 7015, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 2,
+    "username": "Chris",
+    "major": "Biology",
+    "password": "chris123",
+    "savedCourse": [1184, 2358, 2388, 2395, 7015, 7024, 8743]
+  },
+
+  {
+    "id": 3,
+    "username": "Ali",
+    "major": "Physiology",
+    "password": "gymisfun",
+    "savedCourse": [1184, 2358, 2368, 2380, 2395, 7015, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 4,
+    "username": "Emily",
+    "major": "Political Science",
+    "password": "emily123",
+    "savedCourse": [1184, 1196, 2358, 2380, 2388, 7015, 8743]
+  },
+
+  {
+    "id": 5,
+    "username": "Chad",
+    "major": "Business",
+    "password": "123456",
+    "savedCourse": [1184, 2388, 2395, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 6,
+    "username": "Jordan",
+    "major": "Chemical Engineering",
+    "password": "bubbles",
+    "savedCourse": [1184, 1196, 2380, 2388, 2395, 7015, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 7,
+    "username": "Lucas",
+    "major": "Business",
+    "password": "washington-dc",
+    "savedCourse": [1184, 2380, 2388, 7024, 8731, 8743]
+  },
+
+  {
+    "id": 8,
+    "username": "Brad",
+    "major": "Accounting",
+    "password": "protein",
+    "savedCourse": [1184, 1196, 2388, 2395, 7015, 8743]
+  },
+
+  {
+    "id": 9,
+    "username": "Rahul",
+    "major": "Software Development",
+    "password": "django",
+    "savedCourse": [1184, 1196, 2358, 2368, 2380, 2395, 7015, 7024, 8731, 8743]
+  }
+
+]
