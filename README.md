@@ -65,7 +65,7 @@ References to similar systems are madgrades and RateMyProfessor. However, unlike
 <img  width="800" height="400" src="img/ERD.png">
 
 - Visitor Page
-<img  width="800" height="400" src="img/Visitor Page.jpg">
+<img  width="800" height="400" src="img/Visitor Page.png">
 
 - Log in Page
 <img  width="800" height="400" src="img/Log in Page.png">
