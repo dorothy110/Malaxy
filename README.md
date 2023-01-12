@@ -61,18 +61,23 @@ References to similar systems are madgrades and RateMyProfessor. However, unlike
     - Change Password Page
 
 ## Screenshot
-### ERD
+- ERD
 <img  width="800" height="400" src="img/ERD.png">
-### Visitor Page
+
+- Visitor Page
 <img  width="800" height="400" src="img/Visitor Page.jpg">
-### Log in Page
+
+- Log in Page
 <img  width="800" height="400" src="img/Log in Page.png">
-### Sign up Page
-<img  width="800" height="400" src="img/Sign up Page.png">
-### Course List Page
+
+- Sign up Page
+<img  width="800" height="400" src="img/ Sign up Page.png">
+
+- Course List Page
 <img  width="800" height="400" src="img/Course List Page.png">
-### Course Info Page
-<img  width="800" height="400" src="img/Course Info Page.png">
-<img  width="800" height="400" src="img/Course Info Page2.png">
-<img  width="800" height="400" src="img/Course Info Page3.png">
+
+- Course Info Page
+<img src="img/Course Info Page.png">
+<img src="img/Course Info Page2.png">
+<img src="img/Course Info Page3.png">
 
