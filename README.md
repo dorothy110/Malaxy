@@ -1,6 +1,6 @@
 # Malaxy
 ## Project Abstract
-In this project, we want to design a website that would help students do their course selection, which would save the students a lot of research time, providing them with an integrated platform with plenty of information about other students’ comments, course content, grade distribution, etc.
+A website that would help students do their course selection, which would save the students a lot of research time, providing them with an integrated platform with plenty of information about other students’ comments, course content, grade distribution, etc.
 ## Document Revision History
 - Rev. 1.0 <2022-10-12>: initial version
 - Rev. 1.1 <2022-11-17>: update database schema, rework user interface, add course filters to search feature, fix typos
