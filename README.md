@@ -1,5 +1,11 @@
 # Malaxy
+```
+python manage.py migrate coreapi       
+python manage.py runserver
+
+```
 ## Project Abstract
+
 A website that would help students do their course selection, which would save the students a lot of research time, providing them with an integrated platform with plenty of information about other students’ comments, course content, grade distribution, etc.
 ## Document Revision History
 - Rev. 1.0 <2022-10-12>: initial version
